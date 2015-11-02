@@ -9,5 +9,5 @@
     <string name="buttonStart_1_english">stop</string>
     
     <string name="buttonBreak_0_german">Pause</string>
-
+    <string name="buttonBreak_0_english">break</string>
 </resources>
