@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">drawmypos</string>
     <string name="action_settings">Settings</string>
+
+    <string name="buttonStart_0_german">Start</string>
+    <string name="buttonStart_0_english">start</string>
+
+    <string name="buttonStart_1_german">Stopp</string>
+    <string name="buttonStart_1_english">stop</string>
+    
 </resources>
