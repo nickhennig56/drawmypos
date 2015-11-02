@@ -8,4 +8,6 @@
     <string name="buttonStart_1_german">Stopp</string>
     <string name="buttonStart_1_english">stop</string>
     
+    <string name="buttonBreak_0_german">Pause</string>
+
 </resources>
